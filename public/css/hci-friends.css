@@ -1,4 +1,10 @@
 /* applies to anything of class "example-class-selector" */
+.friend {
+	width: 150px;
+}
+.friend img {
+	width: 150px;
+}
 .example-class-selector {
 	margin-top: 2em;
 }
